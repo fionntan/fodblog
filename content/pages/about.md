@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/author.jpg
+image: images/author_colour.jpg
 url: "about"
 menu:
   main:
@@ -26,26 +26,12 @@ licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
 quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
 ancora.
 
-## Ducem oculos pallor tale quoque
+## Some things I've written which I still quite like
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+- [What we talk about when we talk about fair AI](https://medium.com/bbc-news-labs/what-we-talk-about-when-we-talk-about-fair-ai-8c72204f0798) – deep dive in to fairness, transparency and accountability in artificial intelligence
+- [Sharing models between ‘digital twins’](https://theodi.org/article/sharing-models-between-digital-twins/) – how we need to create standards when sharing machine learning models
+- [With great personal data comes great anonymity](https://youtu.be/dTlVo8Xim-4) – talk I gave at the Open Data Institute on maintaining trust while anonymising data
+- [Sharing models for Covid-19: guidance and tools](https://theodi.org/article/sharing-models-for-covid-19-guidance-and-tools/) – Covid-19 topic but on the importance of opening computational models in general and tools to help do this
+- [Hands-on synthetic data tutorial for programmers](https://github.com/theodi/synthetic-data-tutorial) – part of the Anonymisation project in the Open Data Institute
+- [A Brief Guide to BBC R&D’s Video Face Recognition](https://medium.com/bbc-news-labs/a-brief-guide-to-bbc-r-ds-video-face-recognition-27f6253c0dc8)
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
