@@ -3,17 +3,17 @@
     {
       "name": "twitter",
       "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "image": "./images/social/twitter.svg"
     },
     {
       "name": "mastodon",
       "url": "https://mastodon.ie/@fionntan",
-      "image": "images/social/mastodon.svg"
+      "image": "./images/social/mastodon.svg"
     },
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/",
-      "image": "images/social/linkedin.svg"
+      "image": "./images/social/linkedin.svg"
     }
   ]
 }
