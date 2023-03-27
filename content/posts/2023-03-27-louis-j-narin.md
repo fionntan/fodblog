@@ -116,7 +116,7 @@ Mainly, I just enjoyed it on a personal level. Growing up, Narin was our main be
 
 - - - -
 
-![Scan of page from Derry Journal](./images/louis_j_walsh_narin_article.png)
+![Scan of page from Derry Journal](/images/louis_j_walsh_narin_article.png)
 
 
 
