@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A blog about technology, on fodblog</title>
-    <link>/</link>
-    <description>Recent content in A blog about technology, on fodblog</description>
+    <title>beach on fodblog</title>
+    <link>/tags/beach/</link>
+    <description>Recent content in beach on fodblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/beach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essay on Narin &amp; Portnoo by Louis J. Walsh, 1931</title>
       <link>/posts/2023-26-03-louis-j-narin/</link>
@@ -15,16 +15,6 @@
       <guid>/posts/2023-26-03-louis-j-narin/</guid>
       <description>My great-grandfather was Louis J. Walsh. This article in the Dictionary of Irish Biography holds as much information as I know about him. He had a pretty active life. He was part of the early 20th-century Irish Republican movement, had a stint in Ballykinlar interment camp, wrote quite a bit of fiction and non-fiction and was even the first district judge appointed by the new Irish state.
 My aunt recently sent me an essay he had published in The Derry Journal in 1931.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
-Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
     </item>
     
   </channel>
