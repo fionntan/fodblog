@@ -1,11 +1,12 @@
 ---
 title: Essay on Narin & Portnoo by Louis J. Walsh, 1931
-date: 2018-06-07
+date: 2023-03-27
 description: "Article from Louis J. Walsh about Narin beach in Donegal"
 image: images/narin-stable-diffusion.jpg
 tags:
    - donegal
    - beach  
+   - louisjwalsh
 ---
 
 
