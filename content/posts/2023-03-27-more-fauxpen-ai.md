@@ -1,7 +1,7 @@
 ---
 title: Let a thousand public AI flowers BLOOM
 date: 2023-03-27
-description: "OpenAI have probably sullied the word 'open' now for good. As this Twitter thread shows they're anything but. More like FauxpenAI amirite?? "
+description: "In today's edition of 'I told ye so, so I did!' is this post about FauxpenAI pulling access to a model of theirs and, oh ooops, there goes the reproducibility of more than a hundred papers who use the model. Soz."
 image: 
 tags:
    - ai
