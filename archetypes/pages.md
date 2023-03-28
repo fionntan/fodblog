@@ -1,9 +1,8 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date | time.Format ":date_long"  }}
+date: {{ .Date  }}
 image: images/writer.jpeg
 menu:
   main:
     name: "About"
 ---
-{{ .Date | time.Format ":date_long"  }}
