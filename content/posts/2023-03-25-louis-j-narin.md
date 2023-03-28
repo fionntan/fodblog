@@ -9,7 +9,6 @@ tags:
    - louisjwalsh
 ---
 
-
 My great-grandfather was Louis J. Walsh. This [article in the *Dictionary of Irish Biography*](https://www.dib.ie/biography/walsh-louis-joseph-a8885) holds as much information as I know about him. He had a pretty active life. He was part of the early 20th-century Irish Republican movement, had a stint in [Ballykinlar interment camp](https://en.wikipedia.org/wiki/Abercorn_Barracks#Internment_at_Ballykinlar), wrote quite a bit of fiction and non-fiction and was even the first district judge appointed by the new Irish state. 
 
 My aunt recently sent me an essay he had published in **The Derry Journal** in 1931. She was browsing a [Donegal chronology book by Thomas J. Plunkett](https://donegalnews.com/2020/08/new-book-chronicles-history-of-six-donegal-parishes/) and saw it had a reference to this essay by Louis. She then searched  **The Derry Journal** archives and pulled a scan of the paper. She kindly sent it on to me as she thought I might be interested.  

@@ -1,7 +1,7 @@
 ---
-title: Open AI? Yeah right! Jaysus folks we can do a lot better.
+title: Open AI? Yeah right! Jaysus folks we can do a lot better
 date: 2023-03-26
-description: "OpenAI have probably sullied the word 'open' now for good. As this Twitter thread shows they're anything but. More like FauxpenAI amirite?? "
+description: "OpenAI have probably sullied the word 'open' now for good. As this Twitter thread shows they're anything but. More like FauxpenAI amirite??"
 image: 
 tags:
    - ai
