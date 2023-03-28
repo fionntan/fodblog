@@ -1,14 +1,4 @@
 {
   "links": [
-    {
-      "name": "mastodon",
-      "url": "https://mastodon.ie/@fionntan",
-      "image": "images/social/mastodon.svg"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/",
-      "image": "images/social/linkedin.svg"
-    }
   ]
 }
