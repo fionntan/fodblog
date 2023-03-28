@@ -10,6 +10,7 @@ tags:
    - semi-state
 ---
 
+
 In today's edition of 'I told ye so, so I did!' is this [post about FauxpenAI pulling access to a model of theirs](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible) and, oh ooops, there goes the reproducibility of more than a hundred papers who use the model. Soz.
 
 That is, a critical piece of research infrastructure is privatised and entirely at the whims of some like product strategist in a turtleneck and leggings e-scootering in to their SV office. "Oh my Dogecoin stock is down 10%, I better dopamine-fast and exponentially profit on our AI moat!" they probably say.

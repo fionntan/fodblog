@@ -1,5 +1,5 @@
 ---
-title: A blog about technology, 
+title: You are hearing me talk 
 description: Homepge of the blog
 ---
 
