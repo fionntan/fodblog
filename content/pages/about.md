@@ -35,9 +35,9 @@ The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 
 ## Me on the socials
 
-- Mastodon: <a href="https://mastodon.ie/@fionntan" target="_blank">https://mastodon.ie/@fionntan</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/" target="_blank">https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/</a>
-- Twitter: <a href="https://twitter.com/fionntan" target="_blank"> https://twitter.com/fionntan </a> – admittedly Twitter has a fierce bang of 'wouldn't be caught dead in the place' these days, but sure listen, if you need me, I'll be about
+- [Mastodon](https://mastodon.ie/@fionntan) – the fodiverse
+- [LinkedIn](https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/) – did you ever actually scroll down on the LinkedIn feed? An absolutely bonkers place. But still! Useful for messaging work ones and taking a squint at CVs.
+- [Twitter](https://twitter.com/fionntan) – admittedly Twitter has a fierce bang of 'wouldn't be caught dead in the place' these days, but sure listen, if you need me, I'll be about
 
 ## Some things I've written which I still quite like
 

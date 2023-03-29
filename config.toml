@@ -3,6 +3,7 @@ languageCode = "en-ie"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "fodblog"
+rssLimit = 25
 paginate = 10
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
