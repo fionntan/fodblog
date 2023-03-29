@@ -1,6 +1,6 @@
 ---
-title: You are hearing me talk 
-description: Homepge of the blog
+title: Fodblog 
+description: A blog by FOD
 ---
 
 Hello

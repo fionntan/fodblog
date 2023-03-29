@@ -8,29 +8,11 @@ menu:
     weight: 3
 ---
 
-## Contra vagos
-
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
-
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
 ## RSS Feed
 
 The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 
-<a href="https://fionntan.ie/posts/index.xml" target="_blank">https://fionntan.ie/posts/index.xml</a>
+<a href="https://fionntan.ie/index.xml" target="_blank">https://fionntan.ie/index.xml</a>
 
 
 ## Me on the socials
