@@ -27,6 +27,7 @@ quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
 ancora.
 
 ## RSS Feed
+
 The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 
 <a href="https://fionntan.ie/posts/index.xml" target="_blank">https://fionntan.ie/posts/index.xml</a>
