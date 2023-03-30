@@ -8,6 +8,30 @@ menu:
     weight: 3
 ---
 
+# Yes there!
+
+**Who are you?**
+
+I am Fionntán and I am an AI and data technologist.
+
+**Nerd alert! A techologist...you can...read minds??**
+
+No, but I can read very long and dry reports about data and AI and make them understandable to actual humans!
+
+What is a data 
+He’s called a AI & data technologist because I work is in the intersection between software engineering, research, design, and communication. It can be an odd intersection at times but he’s happy to be there.
+
+I like the term technologist because it captures 
+
+As Senior Data Technologist, Fionntán worked on the R&D programme at the ODI. He researched how best to use artificial intelligence (AI) and data in fair, accountable and transparent ways.
+He’s been knocking about researching AI for over a decade now. Initially at the National University of Ireland Galway looking at the semantic web. Then he headed off to Ghent University to study deep learning back before it was even called deep learning. Then to Dublin in the ADAPT Centre, developing machine-learning prototypes in the innovation team. After that he got the boat to London where he worked for the BBC, designing machine-learning systems for News Labs and investigating what AI should mean for a public service broadcaster.
+
+**Do you live in a very remote and beautiful part of Ireland with an abundance of epic vistas and nice people?**
+
+Wow, what an on-point question, it's like you know me. Yes I live in Donegal, Ireland. It's 
+
+
+
 ## RSS Feed
 
 The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
