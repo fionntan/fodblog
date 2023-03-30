@@ -15,7 +15,7 @@ The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 <a href="https://fionntan.ie/index.xml" target="_blank">https://fionntan.ie/index.xml</a>
 
 
-## Me on the socials
+## Me on de socials
 
 - [Mastodon](https://mastodon.ie/@fionntan) – the fodiverse
 - [LinkedIn](https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/) – did you ever actually scroll down on the LinkedIn feed? An absolutely bonkers place. But still! Useful for messaging work ones and taking a squint at CVs.
