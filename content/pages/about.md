@@ -14,7 +14,7 @@ menu:
 
 I am Fionntán and I am an AI and data technologist.
 
-**Nerd alert! A techologist...you can...read minds??**
+**Nerd alert! A technologist...you can...read minds??**
 
 No, but I can read very long and dry reports about data and AI and make them understandable to actual humans! Given the amount of spoofers, gombeens and shitehawks in the tech space, I think a trusty, friendly feller like myself, who's been around the block, is probably worth something. 
 
@@ -28,7 +28,7 @@ No. But Spike Lee did walk past my desk once, that was pretty exciting. And I wa
 
 **Far out. And the Open Data Institute? Is open data still cool? Isn't it very 2012??**
 
-Well the ODI is more about data in its entirety and *opening* data. And being open about about all the stuff you're doing with data. Which is what challenged my very feedble machine learning engineer brain. I sauntered in going 'yeah, yeah, I know everything about data, I once used a 100GB dataset, get outta my way', and then ohhh nooo realising I was like a doe-eyed child when it came to data protection, data policy, data governance, data audits, data privacy...the list goes on really. I'm happy to say I know a lot more now. And have some happy memories of the lovely folks at the ODI.
+Well the ODI is more about data in its entirety and *opening* data. And being open about about all the stuff you're doing with data. Which is what challenged my very feeble machine learning engineer brain. I sauntered in going 'yeah, yeah, I know everything about data, I once used a 100GB dataset, get outta my way', and then ohhh nooo realising I was like a doe-eyed child when it came to data protection, data policy, data governance, data audits, data privacy...the list goes on really. I'm happy to say I know a lot more now. And have some happy memories of the lovely folks at the ODI.
 
 **You know, I still don't know what a technologist is.**
 
@@ -36,7 +36,7 @@ I know it sounds a bit vague but I like "technologist" because it's like a big o
 
 **What's happening now?**
 
-I advise the public service about how to improve how they use data. Both on the – let's please not do bad stuff! – side and the – all right, let's get damn data to work! – side. Usually this involves recommending lot of smaller projects to improve data quality, cataloguing, modelling, identfying roles, all that shite. The huge unsung grunt work that results in lovely data viz and snazzy insights and high salaries for AI engineers. 
+I advise the public service about how to improve how they use data. Both on the – let's please not do bad stuff! – side and the – all right, let's get damn data to work! – side. Usually this involves recommending lot of smaller projects to improve data quality, cataloguing, modelling, identifying roles, all that shite. The huge unsung grunt work that results in lovely data viz and snazzy insights and high salaries for AI engineers. 
 
 **But AI is hip now! It's the hashtag zeitgeist!**
 
@@ -48,7 +48,7 @@ Wow, what an on-point question, it's like you know me. Yes I live in Donegal, Ir
 
 Here's some nice cows I saw one time I was trying to spot Pearse Brosnan and Gabriel Byrne shoot a movie on Narin beach.
 
-![Here's some nice cows I saw one time I was trying to spot Pearse Brosnan and Gabriel Byrne on Narin beach.](https://github.com/fionntan/fodblog/blob/a605ab52b6a8a4c8f1c02f290f630482d70e5618/static/images/cows_narin.png?raw=true)
+![Here's some nice cows I saw one time I was trying to spot Pierce Brosnan and Gabriel Byrne on Narin beach.](https://github.com/fionntan/fodblog/blob/a605ab52b6a8a4c8f1c02f290f630482d70e5618/static/images/cows_narin.png?raw=true)
 
 
 ## RSS Feed
@@ -71,5 +71,5 @@ The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 - [With great personal data comes great anonymity](https://youtu.be/dTlVo8Xim-4) – talk I gave at the Open Data Institute on maintaining trust while anonymising data. 
 - [Hands-on synthetic data tutorial for programmers](https://github.com/theodi/synthetic-data-tutorial) – this was a great combination of both writing and development work. It's got quite a few Github stars too which makes me feel nice.
 - [Designing data audits to build trust](https://docs.google.com/presentation/d/1kYdKnB2-wyXN1iW4ZaJbNt2ClwcQApoLMwiVUQRhk2g/edit#slide=id.gacb68ed590_0_0) - an annotated slidedeck. People are going, we need to audit data and AI! All right, but how! There's so much to consider in audits and making everyone involved trust them. This wrapped those questions up in a visually appealing package. Also, if you look at the speaker notes at the bottom of the slides there's links to lots of great stuff.  
-- [Comparing inflation data publishing across countries](https://github.com/theodi/nso-stats-fetcher/blob/main/analysis.md) – you know the way inflation is a big deal right now? You'd expect that info to be easily available in nice data formats. You'd be completely wrong. It's a bonkers completely messy world of data publishing. It was *extremely* hard to make one puney graph using national statistics websites' data.
+- [Comparing inflation data publishing across countries](https://github.com/theodi/nso-stats-fetcher/blob/main/analysis.md) – you know the way inflation is a big deal right now? You'd expect that info to be easily available in nice data formats. You'd be completely wrong. It's a bonkers completely messy world of data publishing. It was *extremely* hard to make one puny graph using national statistics websites' data.
 - [How to publish open data: a list of advice and tools](https://github.com/theodi/data-publish-list) – a lot of the time in my job I just feel I'm taking great material elsewhere and pointing people towards it. But it actually takes a lot of time to collect and curate these. Basically a middleman for knowledge. Middlemen are important! I still refer back to these links often.
