@@ -2,12 +2,13 @@
 title: Essay on Narin & Portnoo by Louis J. Walsh, 1931
 date: 2023-03-25
 description: "Article from Louis J. Walsh about Narin beach in Donegal"
-image: "images/DALL·E 2023-04-06 09.50.50 - a wistful painting of a well-dressed man in the 1910s standing on a beach in Donegal, Ireland .png"
 tags:
    - donegal
    - beach  
    - louisjwalsh
 ---
+
+![a wistful painting of a well-dressed man in the 1910s standing on a beach in Donegal, Ireland](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-06%2009.50.50%20-%20a%20wistful%20painting%20of%20a%20well-dressed%20man%20in%20the%201910s%20standing%20on%20a%20beach%20in%20Donegal,%20Ireland%20.png?raw=true)
 
 My great-grandfather was Louis J. Walsh. This [article in the *Dictionary of Irish Biography*](https://www.dib.ie/biography/walsh-louis-joseph-a8885) holds as much information as I know about him. He had a pretty active life. He was part of the early 20th-century Irish Republican movement, had a stint in [Ballykinlar interment camp](https://en.wikipedia.org/wiki/Abercorn_Barracks#Internment_at_Ballykinlar), wrote quite a bit of fiction and non-fiction and was even the first district judge appointed by the new Irish state. 
 

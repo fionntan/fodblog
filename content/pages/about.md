@@ -46,9 +46,10 @@ We're in some kind of strange space where 99% of tech chat is about AI but only 
 
 Wow, what an on-point question, it's like you know me. Yes I live in Donegal, Ireland. It's fab, check it out some time. 
 
+![Here's some nice cows I saw one time I was trying to spot Pierce Brosnan and Gabriel Byrne on Narin beach.](https://github.com/fionntan/fodblog/blob/a605ab52b6a8a4c8f1c02f290f630482d70e5618/static/images/cows_narin.png?raw=true)
+
 Here's some nice cows I saw one time I was trying to spot Pearse Brosnan and Gabriel Byrne shoot a movie on Narin beach.
 
-![Here's some nice cows I saw one time I was trying to spot Pierce Brosnan and Gabriel Byrne on Narin beach.](https://github.com/fionntan/fodblog/blob/a605ab52b6a8a4c8f1c02f290f630482d70e5618/static/images/cows_narin.png?raw=true)
 
 ## RSS Feed
 The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
