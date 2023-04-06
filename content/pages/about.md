@@ -12,7 +12,7 @@ menu:
 
 **Who are you?**
 
-I am Fionntán and I am an AI and data technologist.
+I am Fionntán and I am a data and AI technologist.
 
 **Nerd alert! A technologist...you can...read minds??**
 
