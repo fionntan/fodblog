@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on fodblog</title>
+    <title>FodBlog on Fionntan&#39;s Website on the World Wide Web</title>
     <link>/blog/</link>
-    <description>Recent content in Blog on fodblog</description>
+    <description>Recent content in FodBlog on Fionntan&#39;s Website on the World Wide Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,23 +13,46 @@
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/blog/2023-04-03-bunga-q/</guid>
-      <description>&lt;p&gt;I like the Bungacast (formerly known as &amp;lsquo;Aufhebunga Bunga&amp;rsquo;) – &amp;ldquo;the global politics podcast at the end of the end of history&amp;rdquo;. If you hate political theory blethering about &lt;em&gt;technofeudalism&lt;/em&gt; and &lt;em&gt;degrowth communism&lt;/em&gt; then, by jesus, you&amp;rsquo;re sure gonna hate this! Works for me though (actually I&amp;rsquo;ve a terrible memory for facts so I&amp;rsquo;m pretty useless at discussing current events. But I do like chin-stroking theorising and open questions like this pod provides. I&amp;rsquo;d love to be on-point and detailed focused but alas, I have sieve-brain and hang out with the chin-strokers).&lt;/p&gt;
-&lt;p&gt;They had an episode recently about &lt;a href=&#34;https://bungacast.com/2023/02/14/321-covid-dissensus-ft-toby-green-thomas-fazi/&#34;&gt;covid and lockdowns&lt;/a&gt;. I don&amp;rsquo;t really agree with their anti-lockdown bent, or know enough to disagree with the consensus is probably a better way of putting it. But it did make me think again about the power of models in state decision making.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s fair to say the covid models were the most powerful predictive models ever used. Entire countries locked down, opened and closed down again based on what was predicted would happen through epidemiology models. But other issues of huge&lt;/p&gt;
-&lt;p&gt;I wondered what the guys thought about the power of states using models. And whether there&amp;rsquo;s any hope for transparency and accountability. Or if they&amp;rsquo;re just another tool to move decision making away from the masses.&lt;/p&gt;
+      <description>&lt;p&gt;I like the &lt;a href=&#34;https://bungacast.com&#34;&gt;Bungacast&lt;/a&gt; (formerly known as &amp;lsquo;Aufhebunga Bunga&amp;rsquo;) – &amp;ldquo;&lt;em&gt;the global politics podcast at the end of the end of history&lt;/em&gt;&amp;rdquo;. If you hate political theory blethering about &lt;em&gt;technofeudalism&lt;/em&gt; and &lt;em&gt;degrowth communism&lt;/em&gt; then, by jesus, you&amp;rsquo;re sure gonna hate this! Works for me though (actually, I&amp;rsquo;ve a terrible memory for facts so I&amp;rsquo;m pretty useless at discussing current events - but I do like chin-stroking theorising and open questions like this pod provides - I&amp;rsquo;d love to be on-point and detailed focused but, alas, I have sieve-brain and thus listen to chin-strokers).&lt;/p&gt;
+&lt;p&gt;They had an &lt;a href=&#34;https://bungacast.com/2023/02/14/321-covid-dissensus-ft-toby-green-thomas-fazi/&#34;&gt;episode recently&lt;/a&gt; about covid and lockdowns. I don&amp;rsquo;t really agree with the guests&amp;rsquo; anti-lockdown bent (or know enough to disagree with the consensus is probably a better way of putting it). But it did make me think again about the power of models in state decision making.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s fair to say the covid models were the most powerful predictive models ever used. Entire countries locked down, opened, and closed down again based on what was predicted would happen through epidemiology models. Or, at least, the predictions based on the models were given as the key reasoning and justification for the lockdowns. Which, I&amp;rsquo;m not arguing against, but what I am saying is this is a huge amount of pressure to put on a lil&amp;rsquo; model!&lt;/p&gt;
+&lt;p&gt;High-stakes models about society (e.g. covid, the economy, climate) needs lots of people like that &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=rUHunfH0XbI&#34;&gt;they&amp;rsquo;re a a bunch of cowboys!&lt;/a&gt;&amp;rdquo; priest in Father Ted. Sceptically kickin&amp;rsquo; shite out of something to see if it breaks. They also need the translators – those who&amp;rsquo;ll dumb it down a notch to explain the mystical workings of these models so that the brain-dead-slob public can build up their own rough idea of what&amp;rsquo;s going on.&lt;/p&gt;
+&lt;p&gt;Covid isn&amp;rsquo;t really my point here but take the models used for covid prediction in Ireland. These were formed by the &lt;a href=&#34;https://www.ucd.ie/research/covid19response/news/irishepidemiologicalmodellingadvisorygrouptonphet/&#34;&gt;Irish Epidemiological Modelling Advisory Group to NPHET&lt;/a&gt;. There &lt;a href=&#34;https://www.gov.ie/en/publication/dc5711-irish-epidemiology-modelling-advisory-group-to-nphet-technical-notes/&#34;&gt;are a number of technical documents&lt;/a&gt; published on government websites which aim to give transparency to these models. Now, take a look at just one of these documents: &lt;a href=&#34;https://www.gov.ie/pdf/?file=https://assets.gov.ie/122667/8379f0cc-5be3-4c89-9a1e-3b7328ae03af.pdf#page=null&#34;&gt;A population-level SEIR model for COVID-19 scenarios&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ask yourself some questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How would you, a regular Joe or Josephine, know this science is accurate?&lt;/li&gt;
+&lt;li&gt;Do you feel this 13-page Latex document is enough transparency and explanation for you to trust the validity of these models?&lt;/li&gt;
+&lt;li&gt;What would you like in place to explain this better?&lt;/li&gt;
+&lt;li&gt;What people and processes would you want to test the validity of this model?&lt;/li&gt;
+&lt;li&gt;How much explanation is enough?&lt;/li&gt;
+&lt;li&gt;What mediums should the explanations be done through?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I &lt;a href=&#34;https://theodi.org/article/sharing-models-for-covid-19-guidance-and-tools/&#34;&gt;researched well-published covid models&lt;/a&gt; as part of my time in the Open Data Institute (btw, spending all work day reading about covid science during the first summer of covid, grim!). If you scroll down to the &amp;ldquo;Sharing Covid-19 models: examples we like&amp;rdquo; part there&amp;rsquo;s some ones which are a damn site better published than Ireland&amp;rsquo;s attempt. In particular, I like Alison Hill&amp;rsquo;s lovely &lt;a href=&#34;https://alhill.shinyapps.io/COVID19seir/&#34;&gt;web-interactive model&lt;/a&gt;. Play with the dials, look at that covid fly!&lt;/p&gt;
+&lt;p&gt;And then, lo&amp;rsquo; and behold, two years after I publish that, this article drops down one day: &lt;a href=&#34;https://www.thejournal.ie/nphet-covid-19-models-5746932-Apr2022/&#34;&gt;NPHET &amp;lsquo;did not communicate Covid-19 models as well as necessary&amp;rsquo; to Government, says Nolan&lt;/a&gt;. I really did feel like that &amp;ldquo;I told ya he was a chicken!&amp;rdquo; Chicken Boo guy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nolan said they warned Government that opening up hospitality and household visits over Christmas would put the country “absolutely in the wrong place”.
+&lt;br&gt;
+“In fact we even said it in the letter,” he added.
+&lt;br&gt;
+“What did that teach us? It taught us that we weren’t, I wasn’t communicating the outputs of these models as well as was necessary to properly inform.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Bingo bango.&lt;/p&gt;
+&lt;p&gt;My lukewarm take is that even if they hired a decent web-developed and a couple of science communication researchers they could have knocked up a really nice informative site in a few months and it would have really really helped all this for not very much cost.&lt;/p&gt;
+&lt;p&gt;Anyway, enough about covid, back to the politics of all this. This sub-contracting of reasoning and decision making seems a big challenge for trust and legitimacy of government decision making. Particularly as state bodies move to bigger data collections and more complex modelling in their work.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have the political knowledge to analyse this further. But I hoped the Bunga boys did. So I emailed them the following spiel. And hopefully there&amp;rsquo;s a discussion on the next mailbag episode. If so, I&amp;rsquo;ll post it.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Q to consider for Aufhebonus Bonus episode.&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Q to consider for Aufhebonus Bonus episode.&lt;/em&gt;&lt;br&gt;
 &lt;br&gt;
-Mainly, it&amp;rsquo;s about the likely future of state decision making through modelling.  Take three huge topics where predictive modelling is prevalent – covid, the economy and the climate. A lot of decision making in these domains seems to be &amp;ldquo;well we&amp;rsquo;d like to do X, but if we do X then ours models say Y will happen – so the only course of action is Z&amp;rdquo; (Z being lockdowns, austerity, some government over or under-reach). And because the general public don&amp;rsquo;t have the knowledge or skills or access we kind of have to accept the apparent recommendation of &amp;rsquo;the model&amp;rsquo; without much ability to cogently rebut or protest.&lt;br&gt;
+&lt;em&gt;Mainly, it&amp;rsquo;s about the likely future of state decision making through modelling.  Take three huge topics where predictive modelling is prevalent – covid, the economy and the climate. A lot of decision making in these domains seems to be &amp;ldquo;well we&amp;rsquo;d like to do X, but if we do X then ours models say Y will happen – so the only course of action is Z&amp;rdquo; (Z being lockdowns, austerity, some government over or under-reach). And because the general public don&amp;rsquo;t have the knowledge or skills or access we kind of have to accept the apparent recommendation of &amp;rsquo;the model&amp;rsquo; without much ability to cogently rebut or protest.&lt;/em&gt;&lt;br&gt;
 &lt;br&gt;
-It seems models are the next step up again in to technocracy. It&amp;rsquo;s not just unaccountable technocrats, it&amp;rsquo;s technocrats relying on data experts who in turn rely on models. This process get even further out of reach as states roll-out extremely complex AI techniques for entirely automated decisions making – &lt;a href=&#34;https://www.theguardian.com/society/2020/aug/24/councils-scrapping-algorithms-benefit-welfare-decisions-concerns-bias&#34;&gt;the AI says you shouldn&amp;rsquo;t get welfare&lt;/a&gt;. So the elected politician doesn&amp;rsquo;t understand the advisor who doesn&amp;rsquo;t understand the data scientist who doesn&amp;rsquo;t understand the model but they all still obey its decisions.&lt;br&gt;
+&lt;em&gt;It seems models are the next step up again in to technocracy. It&amp;rsquo;s not just unaccountable technocrats, it&amp;rsquo;s technocrats relying on data experts who in turn rely on models. This process get even further out of reach as states roll-out extremely complex AI techniques for entirely automated decisions making – &lt;a href=&#34;https://www.theguardian.com/society/2020/aug/24/councils-scrapping-algorithms-benefit-welfare-decisions-concerns-bias&#34;&gt;the AI says you shouldn&amp;rsquo;t get welfare&lt;/a&gt;. So the elected politician doesn&amp;rsquo;t understand the advisor who doesn&amp;rsquo;t understand the data scientist who doesn&amp;rsquo;t understand the model but they all still obey its decisions.&lt;/em&gt;&lt;br&gt;
 &lt;br&gt;
-But where to go from all this? Don&amp;rsquo;t use large amounts of data? Only use interpretable models? And whose interpretation anyway?&lt;br&gt;
+&lt;em&gt;But where to go from all this? Don&amp;rsquo;t use large amounts of data? Only use interpretable models? And whose interpretation anyway?&lt;/em&gt;&lt;br&gt;
 &lt;br&gt;
-p.s. I live in a very rainy place and really need weather forecasts, please don&amp;rsquo;t take them away from me.&lt;br&gt;
+&lt;em&gt;p.s. I live in a very rainy place and really need weather forecasts, please don&amp;rsquo;t take them away from me.&lt;/em&gt;&lt;br&gt;
 &lt;br&gt;
-Thanks, it was nice getting this thought of my head since reading &lt;a href=&#34;https://basicbooks.uk/titles/erica-thompson/escape-from-model-land/9781529364873/&#34;&gt;Escape from Model Land&lt;/a&gt;.&lt;/p&gt;
+&lt;em&gt;Thanks, it was nice getting this thought of my head since reading &lt;a href=&#34;https://basicbooks.uk/titles/erica-thompson/escape-from-model-land/9781529364873/&#34;&gt;Escape from Model Land&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

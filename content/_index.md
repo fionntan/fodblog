@@ -3,12 +3,7 @@ title: You are hearing me talk to me
 description: 
 ---
 
-Hello
+Hoywa. What's the craic now?
 
-Here's some topics which interest me at the moment:
+There's usually a few topics I get interested in for while. I tend to think them over, maybe do some searching. But I want somewhere tangible to put that thinking, searching and explaining. And this is the place for that. 
 
-- AI transparency – particularly 
-- 
-- Models and modelling.
-- Donegal. I moved back here after a long time away and I've been enjoying learning about its past and present.
-- 
