@@ -50,9 +50,7 @@ Here's some nice cows I saw one time I was trying to spot Pearse Brosnan and Gab
 
 ![Here's some nice cows I saw one time I was trying to spot Pierce Brosnan and Gabriel Byrne on Narin beach.](https://github.com/fionntan/fodblog/blob/a605ab52b6a8a4c8f1c02f290f630482d70e5618/static/images/cows_narin.png?raw=true)
 
-
 ## RSS Feed
-
 The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
 
 <a href="https://fionntan.ie/index.xml" target="_blank">https://fionntan.ie/index.xml</a>
