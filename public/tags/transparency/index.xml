@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>openai on fodblog</title>
-    <link>/tags/openai/</link>
-    <description>Recent content in openai on fodblog</description>
+    <title>transparency on fodblog</title>
+    <link>/tags/transparency/</link>
+    <description>Recent content in transparency on fodblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
-    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/transparency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Q on models for the Bunga Boys</title>
       <link>/blog/2023-04-03-bunga-q/</link>
