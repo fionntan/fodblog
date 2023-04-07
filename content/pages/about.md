@@ -50,11 +50,12 @@ Wow, what an on-point question, it's like you know me. Yes I live in Donegal, Ir
 
 Here's some nice cows I saw one time I was trying to spot Pearse Brosnan and Gabriel Byrne shoot a movie on Narin beach.
 
+## RSS feed of the blog
+RSS is still cool, right? ...right?? 
 
-## RSS Feed
-The RSS feed for the blog. Subscribe and enjoy all the bountiful bloggy beauty.
+Subscribe and enjoy all the bountiful bloggy beauty.
 
-<a href="https://fionntan.ie/index.xml" target="_blank">https://fionntan.ie/index.xml</a>
+<a href="http://fionntan.ie/blog/index.xml" target="_blank">http://fionntan.ie/blog/index.xml</a>
 
 
 ## Me on de socials
