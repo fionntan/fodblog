@@ -10,7 +10,7 @@ tags:
    - justice
 ---
 
-![Photo of BungaCast](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-06%2012.35.44%20-%20an%20impressionist%20painting%20of%20a%20multicolored%20head%20of%20Silvio%20Berlusconi%20with%20the%20word%20%22BONUS%22%20in%20the%20background%20.png?raw=true)
+![A comic book style page of a judge in London's financial district sending a journalist to jail](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-06%2012.35.44%20-%20an%20impressionist%20painting%20of%20a%20multicolored%20head%20of%20Silvio%20Berlusconi%20with%20the%20word%20%22BONUS%22%20in%20the%20background%20.png?raw=true)
 
 Little bit a' finance humour there in the title. #hip
 
