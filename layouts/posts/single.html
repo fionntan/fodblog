@@ -12,6 +12,8 @@
     </div>
 
     <div class="intro">
+      {{- $pubdate := .PublishDate.Format "02 January 2006" }}
+      <font color="#484848"><time datetime="{{ .PublishDate }}" title="{{ .PublishDate }}">{{ $pubdate }}</time></font>
       <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
       {{ if .Params.image }}
       <img src="{{ .Params.image | relURL }}" />

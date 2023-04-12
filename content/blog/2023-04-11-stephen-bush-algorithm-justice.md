@@ -1,7 +1,7 @@
 ---
 title: FT putting 'stock' in jucidcial AI  
 date: 2023-04-12
-description: "Link to article in Financial Times about algorithms and the justice systems"
+description: "Thoughts on an article in the Financial Times about algorithms and the justice system"
 tags:
    - state
    - legal  
@@ -10,9 +10,11 @@ tags:
    - justice
 ---
 
+![Photo of BungaCast](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-06%2012.35.44%20-%20an%20impressionist%20painting%20of%20a%20multicolored%20head%20of%20Silvio%20Berlusconi%20with%20the%20word%20%22BONUS%22%20in%20the%20background%20.png?raw=true)
+
 Little bit a' finance humour there in the title. #hip
 
-Ah, the FT. Those free wheelin' hippies. Much like everyone and their b-hole they have opinions on AI ethics. _"Receive free AI ethics updates"_ their newsletter signup proclaims. Their [`ai-ethics`](https://www.ft.com/ai-ethics) tagged content makes me think otherwise.
+Ah, the FT. Those free wheelin' hippies. Much like everyone and their b-hole they have opinions on AI ethics. _"Receive free AI ethics updates"_ their newsletter signup proclaims. Their small amount of [`ai-ethics`](https://www.ft.com/ai-ethics) tagged content makes me think otherwise.
 
 But, in particular, the columnist Stephen Bush[^1] does in his piece this week.  He's writing about the use of AI (AKA THE ALGORITHM) in the justice system. 
 
