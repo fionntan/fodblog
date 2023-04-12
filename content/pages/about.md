@@ -26,7 +26,7 @@ Probably handiest to take a [look at th'on CV](https://fionntan.github.io/markdo
 
 No. But Spike Lee did walk past my desk once, that was pretty exciting. And I was involved in moving recommendations in to more modern vector-based ML approach. And in a cool group getting AI ethics off the ground. I was there, man!
 
-**Far out. And the Open Data Institute? Is open data still cool? Isn't it very 2012??**
+**Far out. And the Open Data Institute? Is open data still a thing? Isn't it very 2012??**
 
 Well the ODI is more about data in its entirety and *opening* data. And being open about about all the stuff you're doing with data. Which is what challenged my very feeble machine learning engineer brain. I sauntered in going 'yeah, yeah, I know everything about data, I once used a 100GB dataset, get outta my way', and then ohhh nooo realising I was like a doe-eyed child when it came to data protection, data policy, data governance, data audits, data privacy...the list goes on really. I'm happy to say I know a lot more now. And have some happy memories of the lovely folks at the ODI.
 
