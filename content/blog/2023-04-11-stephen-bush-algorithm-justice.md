@@ -10,7 +10,7 @@ tags:
    - justice
 ---
 
-![A comic book style page of a judge in London's financial district sending a journalist to jail](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-06%2012.35.44%20-%20an%20impressionist%20painting%20of%20a%20multicolored%20head%20of%20Silvio%20Berlusconi%20with%20the%20word%20%22BONUS%22%20in%20the%20background%20.png?raw=true)
+![A comic book style page of a judge in London's financial district sending a journalist to jail](https://github.com/fionntan/fodblog/blob/main/static/images/DALL·E%202023-04-12%2012.10.38%20-%20a%20comic%20book%20style%20page%20of%20a%20judge%20in%20London's%20financial%20district%20sending%20a%20journalist%20to%20jail.png?raw=true)
 
 Little bit a' finance humour there in the title. #hip
 
